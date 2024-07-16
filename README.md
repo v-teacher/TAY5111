@@ -6,7 +6,7 @@
   </a>
 </p>
 
-# NOMBRE DE ACTIVIDAD
+<!-- # NOMBRE DE ACTIVIDAD -->
 
 ## ANTECEDENTES GENERALES
 
@@ -14,11 +14,11 @@ Archivos asociados a la actividad 3.3 y 3.4 (AWS Academy)
 
 ## REQUERIMIENTOS PARA ESTA ACTIVIDAD
 
-Para el desarrollo de esta actividad se requiere AWS AcademY Lab Learner
+Para el desarrollo de esta actividad se requiere AWS Academy Lab Learner
 
-## DESARROLLO DE ACTIVIDAD
+<!-- ## DESARROLLO DE ACTIVIDAD
 
-Esta actividad consiste en ...
+Esta actividad consiste en ... -->
 
 ## CONTRIBUCIONES
 
